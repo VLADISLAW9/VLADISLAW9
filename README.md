@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vlad Duplinskiy</h1>
+<h1 align="center">Hi 👋, I'm Front-end developer/h1>
 
 
 # 💻 Tech Stack:
